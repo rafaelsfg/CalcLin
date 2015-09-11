@@ -2,6 +2,7 @@
 Calculadora de expressões matemáticas em linha de comando v. 7.0. Basta digitar uma expressão matemática e teclar ENTER para ver o resultado.
 
 + Utiliza as operações aritméticas básicas (+, -, *, / e ^);
++ Utiliza os operadores >, <, =, <>, >=, <=;
 + Permite a utilização de parenteses;
 + Permite uso de funções: cos(), atan(), log(), exp(), max( ; ; ...), med( ; ; ...), soma( ; ; ...), etc.
 + Permite uso de números complexos;
